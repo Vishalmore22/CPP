@@ -1,0 +1,29 @@
+C++
+
+datatype in C++  -  int,float,double,boolean,char
+this are primetive datatype
+
+non primetive - array,string 
+
+
+ what is OOP. ?
+ OOP stands for object oriented progrmming, its way of progrmming WHICH USED CLASS AND OBJECT 
+
+ WHAT IS CLASS -> CLASS IS A ONE TYPE OF USER-DIFINE DATATYPE.
+               -> CLASS IS BLUEPRINT TO CREATE OBJECT.
+               -> CLASS IS COLLECTION OF METHODS & ATTRIBUTES.
+
+DATATYPE -> TYPE OF DATA .
+BLUEPRINT -> STRUCTURE OF REAL OBJECT.
+COLLECTION -> GROUP OF DATA.
+ATTRIBUTES -> ARE VARIABLES DECLARED IN CLASS.
+METHODS -> FUNCTIONS DECLARED IN THE CLASS.    
+
+WHAT IS OBJECT. -> OBJECT IS AN INSTANCE OF THE CLASS.
+                -> OBJECT IS REPRESENTATIVE OF THE CLASS.
+                -> OBJECT IS USED TO ACCESS METHODS AND ATTRIBUTES DECLARED IN THE CLASS. 
+                -> WE NEED TO DECLARED OBJECT TO USE CLASS.
+                -> OBJECT IS ONE TYPE OF VARIABLES.
+                  
+
+               
