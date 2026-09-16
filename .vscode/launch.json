@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/rnw/C++/lecture_1",
-      "program": "e:/rnw/C++/lecture_1/build/Debug/outDebug",
+      "cwd": "e:/rnw/CPP/exam",
+      "program": "e:/rnw/CPP/exam/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
